@@ -1,4 +1,5 @@
-﻿$serviceName = 'CORRELOG MESSAGE'
+//Edited
+$serviceName = 'CORRELOG MESSAGE'
 
 
 $Servers = Get-Content -path C:\prakash1.txt
