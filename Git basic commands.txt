@@ -1,0 +1,32 @@
+Git useful Terminal commands:
+-----------------------------
+
+git init		//Initializing git.
+
+git add <Filename>		//To stage the filename.
+
+git commit -m "First commit"		//Commit the activity into local repo.
+
+git branch -M <branch name>		//To create a new branch.
+
+git remote add origin <Git remote url>		//To add the remote repo url.
+
+git push -u origin <Git remote url branch name>		//Push the local repo to remote repository.
+
+git branch --delete <branchname>		// Delete branch name.
+
+git branch -a		//To view the branch details including remote url branch.
+
+git clone <Remote url>		//To download the remote repo files to the local repo
+
+git checkout <branch name>		//To switch the another branch.
+
+git status		//To view the status of git like current branch, anything commit, pull, etc.,
+
+git pull		//To update the latest change from Remote repo to local repo.
+
+git merge <branch-name>		//To merge the repo changes from current branch to mentioned branch.
+
+
+
+
